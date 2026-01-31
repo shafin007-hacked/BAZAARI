@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Bazaari - The Modern Bangladesh Marketplace",
+  "description": "A feature-rich marketplace platform for Bangladesh supporting property, electronics, and vehicles with a bKash-based promotion system and advanced search capabilities.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
